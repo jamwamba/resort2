@@ -1,0 +1,149 @@
+.backimg1 {
+    background-image: image(bg-room.jpg);
+
+}
+
+.navbar-default {
+    color: yellow;
+    background-color: #120f0f;
+    bottom: 515px;
+    padding: 10px;
+    width: 100%;
+    border-style: hidden;
+    border-color: #ff8ba3;
+    position:absolute;
+    
+}
+.navbar-default .navbar-brand {
+    font-size: x-large;
+    color: rgb(247, 185, 252);
+    font-weight: 900;
+    font-family: 'Bree Serif', serif;
+    font-size: 50px; 
+}
+
+li a {
+    font-size: medium;
+    font-weight: 500;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #FFC0CB;
+}
+
+.text {
+    position: relative;
+    bottom: 300px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-style: hidden;
+    z-index: 2;
+}
+
+h1 {
+    font-size: 100px;
+    z-index: 3;
+    font-family: 'Italianno', cursive;
+    font-weight: 700;
+}
+
+/*End of header and nav section*/
+
+.content h2 {
+    font-family: 'Italianno', cursive;
+    font-size: 70px;
+    font-weight: 400;
+}
+#section5 {
+    background-color: #120f0f;
+    position: absolute;
+    background-size: contain;
+    margin-top: -140px;
+    margin-left: 100px;
+    color: whitesmoke;
+}
+
+.rooms img {
+    width: 700px;
+    height: 440px;
+}
+
+.room1 {
+    border-style: hidden;
+    border-color: aqua;
+    float: left;
+    margin: 1px 32px 420px 10px;
+    
+}
+
+.row1 p {
+    border-style: hidden; 
+    width: 30%;
+    height: 450px;
+    padding-top: 10px;
+    margin: -830px 60px;
+    float: right;
+}
+.room2 {
+    border-style: hidden;
+    border-color: aqua;
+    float: left;
+    margin: -350px 32px 0px 10px;
+}
+
+.row2 h2 {
+    margin: -440px 320px;
+    float: right;
+    
+}
+.row2 p {
+    border-style: hidden; 
+    width: 30%;
+    height: 450px;
+    padding-top: 10px;
+    margin: -400px 60px;
+    float: right;
+}
+
+.room3 {
+    border-style: hidden;
+    border-color: aqua;
+    float: left;
+    margin: 70px 32px 0px 10px;
+}
+
+.row3 p {
+    border-style: hidden; 
+    width: 30%;
+    height: 450px;
+    padding-top: 10px;
+    margin: -400px 60px;
+    float: right;
+}
+
+.row3 h2 {
+    margin: -440px 350px;
+    float: right;
+    
+}
+
+#footer .container-fluid{
+  background-color: #120f0f;
+  color: #fff;
+  font-size: 35px;
+  margin-top: 1608px;   
+  height: 210px;    
+}
+
+.col-md-4 ul li {
+    list-style: none;
+    padding: -5px;
+
+}
+
+#link {
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+
